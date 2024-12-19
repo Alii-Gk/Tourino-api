@@ -1,0 +1,23 @@
+[
+  {
+    "id": "004f8511-666e-4ef4-a315-e5cb02245bfd",
+    "userId": "0bde68b7-f5e9-44a0-a79c-006d26dcac2a",
+    "amount": 18000,
+    "type": "Purchase",
+    "createdAt": "2024-12-19T09:33:53.300Z"
+  },
+  {
+    "id": "f9127c6b-fda9-4966-b701-ac20ba1a15a7",
+    "userId": "9171e618-7068-4c08-95c6-2d6e588c038c",
+    "amount": 105000,
+    "type": "Purchase",
+    "createdAt": "2024-12-19T10:47:09.218Z"
+  },
+  {
+    "id": "f1dd61d5-e0e8-4456-8520-d324c5b98672",
+    "userId": "aaccf309-44ea-4385-b77b-a8fedd39c1c6",
+    "amount": 240000,
+    "type": "Purchase",
+    "createdAt": "2024-12-19T17:58:42.238Z"
+  }
+]

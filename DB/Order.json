@@ -1,0 +1,32 @@
+[
+  {
+    "id": "58d09473-6714-43e8-8fb5-792741230451",
+    "userId": "0bde68b7-f5e9-44a0-a79c-006d26dcac2a",
+    "tourId": "67890abc-def1-2345-6789-0abcdef12345",
+    "nationalCode": "hhjhj",
+    "fullName": "hjh",
+    "gender": "hjh",
+    "birthDate": "2024-12-03T00:00:00.000Z",
+    "createdAt": "2024-12-19T09:33:53.299Z"
+  },
+  {
+    "id": "1470a75f-ac61-4972-9109-184f0453d8bf",
+    "userId": "9171e618-7068-4c08-95c6-2d6e588c038c",
+    "tourId": "d4e5f678-90ab-cdef-1234-567890abcdef",
+    "nationalCode": "56435435",
+    "fullName": "hjh",
+    "gender": "hjh",
+    "birthDate": "2024-12-03T00:00:00.000Z",
+    "createdAt": "2024-12-19T10:47:09.217Z"
+  },
+  {
+    "id": "3f174db2-86e2-4f3b-b46f-d126c96d655c",
+    "userId": "aaccf309-44ea-4385-b77b-a8fedd39c1c6",
+    "tourId": "b2c3d4e5-f678-90ab-cdef-234567890abc",
+    "nationalCode": "hhjhj",
+    "fullName": "hjh",
+    "gender": "hjh",
+    "birthDate": "2024-12-06T00:00:00.000Z",
+    "createdAt": "2024-12-19T17:58:42.237Z"
+  }
+]
